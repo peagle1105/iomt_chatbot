@@ -7,6 +7,8 @@ cachetools==6.2.0
 certifi==2025.8.3
 charset-normalizer==3.4.3
 click==8.2.1
+ddgs==9.5.5
+dotenv==0.9.9
 duckduckgo_search==8.1.1
 filelock==3.19.1
 fsspec==2025.7.0
@@ -48,7 +50,9 @@ protobuf==6.32.0
 psutil==7.0.0
 pyarrow==21.0.0
 pydeck==0.9.1
+PyPDF2==3.0.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.1.1
 pytz==2025.2
 PyYAML==6.0.2
 referencing==0.36.2
