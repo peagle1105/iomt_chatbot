@@ -9,7 +9,7 @@ import time
 
 # Load biến môi trường từ file .env
 load_dotenv()
-hf_token = os.getenv("HF_TOKEN")
+hf_token = st.secrets("HF_TOKEN")
 model_name = "google/gemma-3-1b-it"
 
 # Thiết lập trang
